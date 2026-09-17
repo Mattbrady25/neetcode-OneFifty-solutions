@@ -1,1 +1,2 @@
-//I decided to create and make available all Neetcode 150 solutions in C++ while documenting my progress through DSA. This repository will continue to add solutions every day until all 150 are solved!
+## what is this? 
+I decided to create and make available all Neetcode 150 solutions in C++ while documenting my progress through DSA. This repository will continue to add solutions every day until all 150 are solved!
